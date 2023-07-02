@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NMediaMap</string>
+    <string name="empty">nothing</string>
+    <string name="to_places">To places\n</string>
+    <string name="enter_name">Enter name</string>
+    <string name="need_permission">Need permission\n</string>
+    <string name="delete">Delete\n</string>
+    <string name="edit">Edit</string>
+    <string name="map_fragment_title">Title</string>
+    <string name="places_fragment_title">title</string>
+    <string name="place">Place</string>
+    <string name="zoomin">ZoomIn</string>
+    <string name="zoomout">ZoomOut</string>
+    <string name="location">Location</string>
+    <string name="menu">Menu</string>
+</resources>
